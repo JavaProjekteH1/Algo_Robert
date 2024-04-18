@@ -1,7 +1,11 @@
-package main.java.Hausaufgaben.HA3;
+package Hausaufgaben.HA3;
 
 import java.util.ArrayList;
 import java.util.Collections;
+
+/**
+ * This class is used to test the functionality of the MyHashSet class.
+ */
 
 public class Test {
     public static void main(String[] args){
