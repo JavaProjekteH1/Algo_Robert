@@ -37,7 +37,7 @@ public class Range implements Iterable<Integer> {
 
 	public static void main(String[] args) {
 	// gibt die Zahlen 0, 1, 2, 3, 4 aus
-		for (char i: new Chars("Hallo")) {
+		for (char i: new Praesenz.Task1.Chars("Hallo")) {
 			System.out.println(i);
 		}
 	}
